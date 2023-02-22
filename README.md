@@ -1,1 +1,0 @@
-# Woocommerce_plugin_alipay
